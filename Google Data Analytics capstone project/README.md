@@ -4,17 +4,14 @@ Data Acquisition:
 
 Source: Kaggle dataset containing anonymized Fitbit user data (steps, sleep, heart rate, activity intensity) from 30 individuals.
 Selection: Five relevant CSV files chosen for further analysis.
-
 Data Preprocessing:
 
 Cleaning: No duplicates or missing values found. Unnecessary columns removed, date formatting adjusted. "Text to Columns" function used to separate date and time when needed.
 Feature Engineering: A new "TotalActiveMinutes" column was added to the "daily_Activity" table by summing "VeryActiveMinutes," "FairlyActiveMinutes," and "LightlyActiveMinutes."
-
 Data Modeling (Power BI):
 
 New calculated column "Week Day" added to relevant tables for weekday-based analysis.
 Two additional tables ("Date" and "ID") created to establish relationships among all data sets.
-
 Data Analysis:
 
 Statistical Findings:
@@ -39,23 +36,17 @@ Factors Affecting Calories Burned:
 A positive correlation exists between calories burned and factors like total steps, distance covered, and total active minutes. (Image 7)
 Relationship Between Sleep Time and Time in Bed:
 A strong correlation exists between sleep duration and time spent in bed. However, some outliers indicate occasional periods of wakefulness in bed. (Image 8 & 9)
-
 Key Insights:
 
 Users are largely inactive (81.2%).
 A positive correlation exists between steps taken and calories burned.
 Users are most active between 6 AM and 8 AM, noon-2 PM, and 5-7 PM. Activity levels drop significantly after 8 PM.
 Average sleep duration is 7 hours per night, with Sundays having the longest sleep times.
-
 Marketing Recommendations:
 
-Inactivity Timer: Implement a timer within the app to remind users to move after extended periods of inactivity.
-Fitness Challenge Groups: Introduce a feature allowing users to compete with friends or family in achieving weekly goals, especially on weekends. Offer digital rewards for winners to incentivize participation.
-Short Exercise Integration: Develop a feature suggesting short, intense exercises or jogging routines, particularly in the mornings (between 6 AM and 7 AM) when users tend to become active.
-Customer Satisfaction Surveys: Conduct weekly surveys based on tracked data to understand reasons behind user inactivity. This can help identify potential issues like illness.
-"User Nearby" Premium Feature: Introduce a premium feature allowing users to search for running partners in their vicinity. This fosters a sense of community and generates additional revenue.
-
+Inactivity Timer: Implement a timer within the app to remind users to move after extended periods of inactivity.
+Fitness Challenge Groups: Introduce a feature allowing users to compete with friends or family in achieving weekly goals, especially on weekends. Offer digital rewards for winners to incentivize participation.
+Short Exercise Integration: Develop a feature suggesting short, intense exercises or jogging routines, particularly in the mornings (between 6 AM and 7 AM) when users tend to become active.
+Customer Satisfaction Surveys: Conduct weekly surveys based on tracked data to understand reasons behind user inactivity. This can help identify potential issues like illness.
+"User Nearby" Premium Feature: Introduce a premium feature allowing users to search for running partners in their vicinity. This fosters a sense of community and generates additional revenue.
 By implementing these recommendations, Fitbit can address user behavior patterns and promote a more active lifestyle, ultimately leading to a more successful marketing strategy.
-
-
-
