@@ -1,6 +1,7 @@
 This project analyzes Fitbit user data to understand user behavior and identify opportunities to improve the company's marketing strategy.
 
-# Data Source: Kaggle dataset containing anonymized Fitbit user data (steps, sleep, heart rate, activity intensity) from 30 individuals.
+# Data Source: 
+Kaggle dataset containing anonymized Fitbit user data (steps, sleep, heart rate, activity intensity) from 30 individuals.
 
 # Analysis Steps:
 Data Preprocessing: Cleaned and formatted data, including handling missing values and creating a "TotalActiveMinutes" column.
