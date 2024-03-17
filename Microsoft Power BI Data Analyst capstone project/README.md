@@ -33,6 +33,6 @@ The Profit Overview page helps assess the financial performance of Tailwind Trad
 #  Check out whole Project Explanation in below links 
 ## 🔗 Links
 https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f
-https://www.linkedin.com/in/nikhilsawhney96/
+
 
 I hope this project demonstrates the valuable skills I gained through the Microsoft Power BI Data Analyst program.
