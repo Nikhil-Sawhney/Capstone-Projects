@@ -30,9 +30,9 @@ This page focuses on profitability metrics such as net revenue by product, yearl
 The Profit Overview page helps assess the financial performance of Tailwind Traders. We can see which products generate the most revenue and which countries have the highest profit margins. The YTD Profit card displays the company's current profit year-to-date.
 
 
-#  Check out whole Project Explanation in below links 
-## 🔗 Links
-https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f
+#  Check out whole Project Explanation in below link
+## 🔗 Link
+[https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f](https://nks96.medium.com/capstone-project-from-microsoft-power-bi-data-analyst-on-coursera-6f5d7b32d3b6)
 
 
 I hope this project demonstrates the valuable skills I gained through the Microsoft Power BI Data Analyst program.
