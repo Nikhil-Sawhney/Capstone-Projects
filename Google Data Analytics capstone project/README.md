@@ -27,4 +27,4 @@ By implementing these recommendations, Fitbit can address user behavior patterns
 
 #  Check out whole Project Explanation in below link 
 ## 🔗 Links
-https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f
+[https://nks96.medium.com/people-resource-analytics-dashboard-using-power-bi-7376db0f696f](https://medium.com/@nks96/fitbit-user-data-analysis-dashboard-using-excel-power-bi-a5d5c16af63f)https://medium.com/@nks96/fitbit-user-data-analysis-dashboard-using-excel-power-bi-a5d5c16af63f
